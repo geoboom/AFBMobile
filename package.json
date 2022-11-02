@@ -13,7 +13,7 @@
     "moment-timezone": "^0.5.25",
     "native-base": "^2.12.1",
     "react": "16.6.1",
-    "react-native": "0.57.7",
+    "react-native": "0.70.4",
     "react-native-animated-ellipsis": "^2.0.0",
     "react-native-camera": "^2.6.0",
     "react-native-elements": "^1.1.0",
